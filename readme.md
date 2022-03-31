@@ -11,3 +11,4 @@ DarkIce is forked and modified so as to allow configuration of Jack Server. [Thi
 # TODO
 - [ ] Include a pre-compiled Supercollider 
 - [ ] Link DarkIce code 
+- [ ] Setup GitHub actions
